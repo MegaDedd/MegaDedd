@@ -1,6 +1,6 @@
 ### Hi, I'm Konstantin 👋
 
-I'm always looking for ways to realize my ideas, and programming helps me with this <br/>
+I'm always looking for ways to realize my ideas and programming helps me with this <br/>
 
 [![MegaDedd GitHub stats](https://github-readme-stats.vercel.app/api?username=MegaDedd&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
